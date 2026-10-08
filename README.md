@@ -111,13 +111,12 @@ Building
 
 ---
 
-# 📚 Actively Learning
 
 # 📚 Actively Learning
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=600&color=00D9FF&center=true&vCenter=true&width=850&height=60&lines=%F0%9F%90%8D+Learning+Python...;%E2%86%92+%F0%9F%93%8A+Learning+Data+Analysis...;%E2%86%92+%F0%9F%A7%AE+Learning+Statistics...;%E2%86%92+%F0%9F%A4%96+Exploring+Machine+Learning...;%E2%86%92+%F0%9F%A7%A0+Exploring+Artificial+Intelligence...;%E2%86%92+%F0%9F%9A%80+Building+Real-World+Projects..." alt="Learning Journey Animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=600&color=00D9FF&center=true&vCenter=true&width=850&height=60&lines=%F0%9F%90%8D+Learning+Python...;%E2%86%92+%F0%9F%93%8A+Learning+Data+Science...;%E2%86%92+%F0%9F%A7%AE+Learning+Statistics...;%E2%86%92+%F0%9F%A4%96+Exploring+Machine+Learning...;%E2%86%92+%F0%9F%A7%A0+Exploring+Artificial+Intelligence...;%E2%86%92+%F0%9F%9A%80+Building+Real-World+Projects..." alt="Learning Journey Animation">
 
 <br><br>
 
