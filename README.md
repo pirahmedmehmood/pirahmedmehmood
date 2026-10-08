@@ -48,7 +48,7 @@ Fundamentals
 <h2>📊</h2>
 <b>Data</b>
 <br>
-Analysis
+Scientist
 </td>
 
 <td align="center" width="20%">
