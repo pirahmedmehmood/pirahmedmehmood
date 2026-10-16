@@ -22,7 +22,7 @@
 
 > **Learning today. Building tomorrow.**
 
-I'm **Pir Ahmed Mehmood**, an **AI & Data Science student** currently building my foundation in programming, data analysis, artificial intelligence and machine learning.
+I'm **Pir Ahmed Mehmood**, an **AI & Data Science student** currently building my foundation in programming,data science,data analysis, artificial intelligence and machine learning.
 
 I'm learning by writing code, experimenting with projects, solving problems and improving my skills step by step.
 
