@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-Student-00D9FF?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-Student-3776AB?style=for-the-badge&labelColor=0D1117">
 <img src="https://img.shields.io/badge/PYTHON-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB-Building-181717?style=for-the-badge&logo=github&logoColor=white">
 
